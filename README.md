@@ -1,16 +1,71 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Paula <img height="50" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
+<p align="">I enjoy converting abstract concepts into practical tools.
 
-<!--
-**paulaamaya/paulaamaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion is creating **simple, neat, accessible solutions that increase efficiency and accuracy** - whether that be through clean code, data analysis, or process optimization. 
 
-Here are some ideas to get you started:
+At the core of my work lies the question: How can we make this better and easier to use?</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on my **personal website**
+
+- I’m currently learning **R**
+
+- I’m looking to collaborate on **computational biology projects**
+
+<br>
+<h3 align="center">Let's Get In Touch:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brainyinpink/)
+[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:paula.amaya@mail.utoronto.ca)
+  
+</div>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+    <!-- HTML -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <!-- CSS -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <!-- JS -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <!-- Python -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <!-- Jupyter -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <!-- Java -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <!-- PostGres -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> 
+  </a>
+  <!-- Git -->
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=paulaamaya&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaamaya&theme=react&layout=compact" />
+</p>
+
+------
+
+Last Edited on: 08/13/2021
