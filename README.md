@@ -11,7 +11,6 @@ At the core of my work lies the question: How can we make this better and easier
 
 - I’m looking to collaborate on **computational biology projects**
 
-<br>
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
 
