@@ -5,11 +5,11 @@ My passion is creating **simple, neat, accessible solutions that increase effici
 
 At the core of my work lies the question: How can we make this better and easier to use?</p>
 
-- I’m currently working on my **personal website**
+- 👩🏻‍💻 I’m currently working on my **personal website**
 
-- I’m currently learning **R**
+- 💡 I’m currently learning **R**
 
-- I’m looking to collaborate on **computational biology projects**
+- 🧬 I’m looking to collaborate on **computational biology projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
