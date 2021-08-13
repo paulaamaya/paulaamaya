@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Paula <img height="50" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
+<h1 align="center">Hello, I'm Paula <img height="60" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
 <p align="">I enjoy converting abstract concepts into practical tools.
 
 My passion is creating **simple, neat, accessible solutions that increase efficiency and accuracy** - whether that be through clean code, data analysis, or process optimization. 
