@@ -61,7 +61,7 @@ At the core of my work lies the question: How can we make this better and easier
 </p>
 
 <p align= "center">
-  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=paulaamaya&theme=react&show_icons=true&count_private=true"
+  <img height = "150" src="https://github-readme-stats.vercel.app/api?username=paulaamaya&theme=react&show_icons=true&count_private=true"/>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaamaya&theme=react&layout=compact" />
 </p>
 
