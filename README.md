@@ -14,9 +14,9 @@ At the core of my work lies the question: How can we make this better and easier
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brainyinpink/)
-[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:paula.amaya@mail.utoronto.ca)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
+[![image](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=&logoColor=white)](https://brainyinpink.com/)
+[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@mail.utoronto.ca)
   
 </div>
 
