@@ -41,6 +41,10 @@ At the core of my work lies the question: How can we make this better and easier
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+    <!-- Numpy -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
   <!-- Jupyter -->
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
@@ -48,6 +52,10 @@ At the core of my work lies the question: How can we make this better and easier
   <!-- Java -->
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+    <!-- Haskell -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> 
   </a>
   <!-- PostGres -->
   <a> 
