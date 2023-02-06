@@ -7,16 +7,16 @@ At the core of my work lies the question: How can we make this better and easier
 
 - 👩🏻‍💻 I’m currently working on my **personal website**
 
-- 💡 I’m currently learning **R**
+- 💡 I’m currently learning **React**
 
-- 🧬 I’m looking to collaborate on **computational biology projects**
+- 🧬 I’m looking to collaborate on **financial analysis projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
-[![image](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=&logoColor=white)](https://brainyinpink.com/)
-[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@mail.utoronto.ca)
+[![image](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=&logoColor=white)]()
+[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@amayaprojects.com)
   
 </div>
 
@@ -37,6 +37,10 @@ At the core of my work lies the question: How can we make this better and easier
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+   <!-- Node -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="40" height="40"/> 
+  </a>
   <!-- Python -->
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -48,6 +52,10 @@ At the core of my work lies the question: How can we make this better and easier
   <!-- Jupyter -->
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+   <!-- Pandas -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> 
   </a>
   <!-- Java -->
   <a> 
