@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Paula</h1>
-<p align="">I am an undergraduate Computer Science and Mathematics student, aspiting writer, and competitive programming enthusiast.
+<p align="center">I am an undergraduate Computer Science and Mathematics student, aspiring writer, and competitive programming enthusiast.
 
-My work is currently focused on the broader horizons of our computing landscape. I aspire not only to create efficient and accurate solutions within our current computing ecosystem but also to explore the frontiers of its evolution.
+My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
 My main areas of interest are:
 
 - Programming languages and logic
 - Information theory
 - Quantum computing
 
-I am driven by the pursuit of bridging the gap between theory and real-world application, all while transforming abstract concepts into practical tools.  Here's what I'm up to these days!
+I am driven by the pursuit of bridging the gap between theory and real-world application, all while **transforming abstract concepts into practical tools**.  Here's what I'm up to these days!
 
 - 👩🏻‍💻 I’m currently working on my **personal website**
 - 💡 I’m currently learning **functional programming**
