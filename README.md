@@ -1,15 +1,18 @@
-<h1 align="center">Hello, I'm Paula <img height="60" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
-<p align="">I enjoy converting abstract concepts into practical tools.
+<h1 align="center">Hello, I'm Paula</h1>
+<p align="">I am an undergraduate Computer Science and Mathematics student, aspiting writer, and competitive programming enthusiast.
 
-My passion is creating **simple, neat, accessible solutions that increase efficiency and accuracy** - whether that be through clean code, data analysis, or process optimization. 
+My work is currently focused on the broader horizons of our computing landscape. I aspire not only to create efficient and accurate solutions within our current computing ecosystem but also to explore the frontiers of its evolution.
+My main areas of interest are:
 
-At the core of my work lies the question: How can we make this better and easier to use?</p>
+- Programming languages and logic
+- Information theory
+- Quantum computing
+
+I am driven by the pursuit of bridging the gap between theory and real-world application, all while transforming abstract concepts into practical tools.  Here's what I'm up to these days!
 
 - 👩🏻‍💻 I’m currently working on my **personal website**
-
-- 💡 I’m currently learning **React**
-
-- 🧬 I’m looking to collaborate on **financial analysis projects**
+- 💡 I’m currently learning **functional programming**
+- 🧬 I’m looking to collaborate on **statistical analysis projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
