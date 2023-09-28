@@ -11,8 +11,8 @@ My main areas of interest are:
 I am driven by the pursuit of bridging the gap between theory and real-world application, all while **transforming abstract concepts into practical tools**.  Here's what I'm up to these days!
 
 - 👩🏻‍💻 I’m currently working on my **personal website**
-- 💡 I’m currently learning **functional programming**
-- 🧬 I’m looking to collaborate on **embedded systems projects**
+- 📑 I’m currently learning **functional programming**
+- 💡 I’m looking to collaborate on **embedded systems projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
