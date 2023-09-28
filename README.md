@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Paula</h1>
-<p align="center">I am an undergraduate Computer Science and Mathematics student, aspiring writer, and competitive programming enthusiast.
+<p align="center">I am an undergraduate Computer Science and Mathematics student and competitive programming enthusiast.
 
 My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
 My main areas of interest are:
@@ -12,7 +12,7 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 
 - 👩🏻‍💻 I’m currently working on my **personal website**
 - 💡 I’m currently learning **functional programming**
-- 🧬 I’m looking to collaborate on **statistical analysis projects**
+- 🧬 I’m looking to collaborate on **embedded systems projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
