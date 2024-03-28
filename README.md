@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Paula</h1>
-<p align="center">I am an undergraduate Computer Science and Mathematics student and competitive programming enthusiast.
+<p align="center">I am an undergraduate Computer Science and Mathematics student.
 
 My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
 My main areas of interest are:
@@ -10,16 +10,16 @@ My main areas of interest are:
 
 I am driven by the pursuit of bridging the gap between theory and real-world application, all while **transforming abstract concepts into practical tools**.  Here's what I'm up to these days!
 
-- 👩🏻‍💻 I’m currently working on my **personal website**
+- 👩🏻‍💻 I’m currently working on my **computational group theory**
 - 📑 I’m currently learning **functional programming**
-- 💡 I’m looking to collaborate on **embedded systems projects**
+- 💡 I’m looking to collaborate on **computational algebra projects**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
 [![image](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=&logoColor=white)]()
-[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@amayaprojects.com)
+[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@ucalgary.ca)
   
 </div>
 
@@ -81,4 +81,4 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 
 ------
 
-Last Edited on: 08/13/2021
+Last Edited on: 28/03/2024
