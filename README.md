@@ -10,7 +10,7 @@ My main areas of interest are:
 
 I am driven by the pursuit of bridging the gap between theory and real-world application, all while **transforming abstract concepts into practical tools**.  Here's what I'm up to these days!
 
-- 👩🏻‍💻 I’m currently working on my **computational group theory**
+- 👩🏻‍💻 I’m currently working on **computational group theory**
 - 📑 I’m currently learning **functional programming**
 - 💡 I’m looking to collaborate on **computational algebra projects**
 
