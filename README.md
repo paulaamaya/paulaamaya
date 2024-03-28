@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Paula</h1>
-<p align="center">I am an undergraduate Computer Science and Mathematics student.
+<h1 align="center">Hello, I'm Paula <img height="70" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
+<p align="center">I am an undergraduate Computer Science and Mathematics student.</p>
 
 My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
 My main areas of interest are:
@@ -8,7 +8,7 @@ My main areas of interest are:
 - Information theory
 - Quantum computing
 
-I am driven by the pursuit of bridging the gap between theory and real-world application, all while **transforming abstract concepts into practical tools**.  Here's what I'm up to these days!
+I am driven by the pursuit of bridging the gap between theory and real-world application, specifically transforming abstract concepts into practical tools  Here's what I'm up to these days!
 
 - 👩🏻‍💻 I’m currently working on **computational group theory**
 - 📑 I’m currently learning **functional programming**
@@ -17,9 +17,9 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
-[![image](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=&logoColor=white)]()
-[![image](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@ucalgary.ca)
+[![image](https://img.shields.io/badge/LinkedIn-3E6D9C?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
+[![image](https://img.shields.io/badge/Website-FF577F?style=for-the-badge&logo=&logoColor=white)]()
+[![image](https://img.shields.io/badge/Email-DD6B4D?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@ucalgary.ca)
   
 </div>
 
