@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Paula <img height="70" src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif"></h1>
+<h1 align="center">Hello, I'm Paula</h1>
 <p align="center">I am an undergraduate Computer Science and Mathematics student.</p>
 
 My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
