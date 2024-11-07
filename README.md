@@ -5,8 +5,7 @@ My work is currently focused on creating optimal solutions within our current co
 My main areas of interest are:
 
 - Programming languages and logic
-- Information theory
-- Quantum computing
+- Numerical analysis
 
 I am driven by the pursuit of bridging the gap between theory and real-world application, specifically transforming abstract concepts into practical tools  Here's what I'm up to these days!
 
