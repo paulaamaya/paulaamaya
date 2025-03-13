@@ -18,7 +18,7 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 
 [![image](https://img.shields.io/badge/LinkedIn-3E6D9C?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/paulaamaya/)
 [![image](https://img.shields.io/badge/Website-FF577F?style=for-the-badge&logo=&logoColor=white)](https://paulaamaya.com/)
-[![image](https://img.shields.io/badge/Email-DD6B4D?style=for-the-badge&logo=&logoColor=white)](mailto:paula.amaya@ucalgary.ca)
+[![image](https://img.shields.io/badge/Email-DD6B4D?style=for-the-badge&logo=&logoColor=white)](mailto:hello@paulaamaya.com)
   
 </div>
 
