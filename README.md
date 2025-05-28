@@ -1,17 +1,15 @@
 <h1 align="center">Hello, I'm Paula</h1>
-<p align="center">I am an undergraduate Computer Science and Mathematics student.</p>
 
-My work is currently focused on creating optimal solutions within our current computing ecosystem while also exploring the frontiers of its evolution.
-My main areas of interest are:
+My work lies at the intersection of machine learning and cybersecurity, with a focus on building secure and intelligent systems. I also explore computer graphics as a creative way to apply the math behind visual computing. My main areas of interest are:
 
-- Programming languages and logic
-- Numerical analysis
+- Anomaly detection in cybersecurity
+- Numerical methods
 
 I am driven by the pursuit of bridging the gap between theory and real-world application, specifically transforming abstract concepts into practical tools  Here's what I'm up to these days!
 
-- 👩🏻‍💻 I’m currently working on **computational group theory**
+- 👩🏻‍💻 I’m currently working on **numerical integration for graphics simulations**
 - 📑 I’m currently learning **functional programming**
-- 💡 I’m looking to collaborate on **computational algebra projects**
+- 💡 I’m looking to collaborate on **applied machine learning for security solutions**
 
 <h3 align="center">Let's Get In Touch:</h3>
 <div align="center">
