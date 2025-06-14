@@ -25,37 +25,33 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
+   <!-- C -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <!-- Haskell -->
+  <a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> 
+  </a>
   <!-- Python -->
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-    <!-- Numpy -->
+  <!-- Numpy -->
   <a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a>
-  <!-- Jupyter -->
+  <!-- Sci-Kit Learn -->
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/> 
   </a>
-   <!-- Pandas -->
+  <!-- PyTorch -->
   <a> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <!-- Java -->
-  <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-    <!-- Haskell -->
-  <a> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> 
   </a>
   <!-- PostGres -->
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> 
-  </a>
-  <!-- JS -->
-  <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
 
@@ -66,4 +62,4 @@ I am driven by the pursuit of bridging the gap between theory and real-world app
 
 ------
 
-Last Edited on: 28/03/2024
+Last Edited on: 14/06/2025
